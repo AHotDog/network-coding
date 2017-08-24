@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NC本地测试</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_one">先在发送端点击分享\n然后在接受端点击连接WIFI\n文件保存在SD卡/files下\n请别长时间开启热点，手机会发烫</string>
+
+</resources>
